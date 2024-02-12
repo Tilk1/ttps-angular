@@ -1,6 +1,6 @@
 # Cuentas claras , front-end
 
-![image](https://github.com/Tilk1/cuenta-claras-server-side/assets/24284918/6fdd4011-cfdc-4048-91c1-0bf13d1e51eb)
+![aaaa](https://github.com/Tilk1/ttps-angular/assets/24284918/ac73957c-3bd4-4a86-9b6d-652ebe170c69)
 
 - Coolaboradores:  Catalina Gaitan, Santiago Dos Santos, Santiago Lizondo
 
